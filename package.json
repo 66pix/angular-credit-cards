@@ -1,5 +1,5 @@
 {
-  "name": "angular-credit-cards",
+  "name": "@66pix/angular-credit-cards",
   "version": "3.1.4",
   "description": "Angular directives for formatting and validating credit card inputs",
   "main": "./src",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bendrucker/angular-credit-cards.git"
+    "url": "https://github.com/66pix/angular-credit-cards.git"
   },
   "keywords": [
     "angular",
@@ -24,9 +24,9 @@
   "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bendrucker/angular-credit-cards/issues"
+    "url": "https://github.com/66pix/angular-credit-cards/issues"
   },
-  "homepage": "https://github.com/bendrucker/angular-credit-cards",
+  "homepage": "https://github.com/66pix/angular-credit-cards",
   "devDependencies": {
     "angular": "~1.5.0",
     "angular-mocks": "~1.6.0",
